@@ -9,5 +9,5 @@ And after uploading the image we have to click the submit button and our results
 
 ![](https://github.com/Hasnain-Khattak/Food-Nutrition/blob/main/Screenshot%202025-01-02%20223323.png)
 
-if anyone wants the live demo you can check the app here.
+if anyone wants the live demo you can check the app [here](https://huggingface.co/spaces/Hasnain-Khattak/Food_Nutritions).
 
